@@ -18,9 +18,9 @@ y_new = np.interp(x_new, x, data)
 
 
 plt.plot(data)
-plt.title('График значений по времени')
+plt.title('График EAR по времени')
 plt.xlabel('Время')
-plt.ylabel('Значение')
+plt.ylabel('EAR')
 plt.savefig(diagramFile)
 
 
