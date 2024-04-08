@@ -3,7 +3,7 @@ import numpy as np
 
 
 
-fileName = '.\\user_data\\19-file-time.txt'
+fileName = '.\\user_data\\43-from-video.txt'
 diagramFile = '.\\user_diagrams\\new-diagram.png'
 # Чтение значений из файла
 with open(fileName, 'r') as file:
